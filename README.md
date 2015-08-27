@@ -1,5 +1,4 @@
 # CASC framework
-Client use Angularjs framework
-
+Client use AngularJS framework
 Server use Codeigniter framework
 
